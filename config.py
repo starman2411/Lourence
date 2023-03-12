@@ -1,0 +1,2 @@
+MAX_OPEN_ORDERS = 3
+
